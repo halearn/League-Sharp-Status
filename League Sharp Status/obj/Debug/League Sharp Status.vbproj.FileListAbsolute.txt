@@ -1,0 +1,12 @@
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\bin\Debug\League Sharp Status.exe
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\bin\Debug\League Sharp Status.pdb
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\bin\Debug\League Sharp Status.xml
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League_Sharp_Status.Form1.resources
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League_Sharp_Status.Resources.resources
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.vbproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.exe
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.xml
+c:\users\said\documents\visual studio 2013\Projects\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.pdb
+C:\Users\said\Desktop\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.exe
+C:\Users\said\Desktop\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.xml
+C:\Users\said\Desktop\League Sharp Status\League Sharp Status\obj\Debug\League Sharp Status.pdb
